@@ -133,7 +133,7 @@ APB_based_SPI_Project/
 ├── README.md
 └── LICENSE
 ```
-
+## rtl2 is logically same as rtl but code is different...
 ---
 
 ## 4. UVM Verification Environment – Block Diagram
