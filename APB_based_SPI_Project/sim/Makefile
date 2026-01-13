@@ -1,4 +1,4 @@
-#Makefile for UVM Testbench - Lab 10
+#Makefile for UVM Testbench - APB_based_SPI_Project
 
 # SIMULATOR = Questa for Mentor's Questasim
 # SIMULATOR = VCS for Synopsys's VCS
