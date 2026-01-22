@@ -126,9 +126,8 @@ APB_based_SPI_Project/
 │       ├── Makefile          //all related simulation files
 │
 ├── docs/
-│   ├── block_diagram.png
-│   ├── register_map.pdf
-│   └── coverage_results.png
+|   //project related documents such as testplan, pindiagram and etc.....
+|
 │
 ├── README.md
 └── LICENSE
