@@ -1,23 +1,5 @@
 
-/********************************************************************************************
 
-Copyright 2024 - Maven Silicon Softech Pvt Ltd.  
-www.maven-silicon.com
-
-All Rights Reserved.
-
-This source code is an unpublished work belongs to Maven Silicon Softech Pvt Ltd.
-It is not to be shared with or used by any third parties who have not enrolled for our paid 
-training courses or received any written authorization from Maven Silicon.
-
-Filename                :       baud_generator.v
-
-module Name             :       Baud Generator
-
-Description             :       Baud generator module for APB based SPI Core Design
-
-
-*********************************************************************************************/
 
  module baud_generator(input PCLK,
 		      input PRESETn,
